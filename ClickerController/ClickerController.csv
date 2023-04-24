@@ -1,0 +1,17 @@
+"Source:","/Users/freaug/Documents/PonchoBoard/Legit Poncho/ClickerController/ClickerController.kicad_sch"
+"Date:","Sunday, April 23, 2023 at 08:16:54 PM"
+"Tool:","Eeschema (6.0.11-0)"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","1"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","U1","CD74HC4067M","74xx:CD74HC4067M","Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm","http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","U1","CD74HC4067M","74xx:CD74HC4067M","Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm","http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf"
